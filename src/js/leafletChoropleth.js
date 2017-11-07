@@ -32,7 +32,7 @@ info.addTo(map);
 ////////////////////////////////////////////////////////////////////////////////
 // get color depending on population density value
 function getColor(d) {
-  return d > 1000 ? '#800026' :
+  return d >100000 ? '#800026' :
     d > 70000 ? '#BD0026' :
     d > 65000 ? '#E31A1C' :
     d > 55000 ? '#FC4E2A' :
