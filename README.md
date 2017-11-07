@@ -1,1 +1,2 @@
-# Webmap
+# LPDoherty.github.io
+Personal Website
