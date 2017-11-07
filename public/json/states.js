@@ -6,7 +6,7 @@ var statesData = {
       "id": "01",
       "properties": {
         "name": "Alabama",
-        "density": 94.65
+        "density": 94.65,
         "income": 44765
       },
       "geometry": {
@@ -118,7 +118,7 @@ var statesData = {
       "id": "02",
       "properties": {
         "name": "Alaska",
-        "density": 1.264
+        "density": 1.264,
         "income": 73355
       },
       "geometry": {
@@ -3431,7 +3431,7 @@ var statesData = {
       "id": "04",
       "properties": {
         "name": "Arizona",
-        "density": 57.05
+        "density": 57.05,
         "income": 51492
       },
       "geometry": {
@@ -3540,7 +3540,7 @@ var statesData = {
       "id": "05",
       "properties": {
         "name": "Arkansas",
-        "density": 56.43
+        "density": 56.43,
         "income": 41995
       },
       "geometry": {
@@ -3664,7 +3664,7 @@ var statesData = {
       "id": "06",
       "properties": {
         "name": "California",
-        "density": 241.7
+        "density": 241.7,
         "income": 64500
       },
       "geometry": {
@@ -3956,7 +3956,7 @@ var statesData = {
       "id": "08",
       "properties": {
         "name": "Colorado",
-        "density": 49.33
+        "density": 49.33,
         "income": 63909
       },
       "geometry": {
@@ -4017,7 +4017,7 @@ var statesData = {
       "id": "09",
       "properties": {
         "name": "Connecticut",
-        "density": 739.1
+        "density": 739.1,
         "income": 71346
       },
       "geometry": {
@@ -4078,7 +4078,7 @@ var statesData = {
       "id": "10",
       "properties": {
         "name": "Delaware",
-        "density": 464.3
+        "density": 464.3,
         "income": 61255
       },
       "geometry": {
@@ -4158,7 +4158,7 @@ var statesData = {
       "id": "12",
       "properties": {
         "name": "Florida",
-        "density": 353.4
+        "density": 353.4,
         "income": 49426
       },
       "geometry": {
@@ -4405,7 +4405,7 @@ var statesData = {
       "id": "13",
       "properties": {
         "name": "Georgia",
-        "density": 169.5
+        "density": 169.5,
         "income": 51244
       },
       "geometry": {
@@ -4571,7 +4571,7 @@ var statesData = {
       "id": "15",
       "properties": {
         "name": "Hawaii",
-        "density": 214.1
+        "density": 214.1,
         "income": 73486
       },
       "geometry": {
@@ -4741,7 +4741,7 @@ var statesData = {
       "id": "16",
       "properties": {
         "name": "Idaho",
-        "density": 19.15
+        "density": 19.15,
         "income": 48275
       },
       "geometry": {
@@ -4952,7 +4952,7 @@ var statesData = {
       "id": "17",
       "properties": {
         "name": "Illinois",
-        "density": 231.5
+        "density": 231.5,
         "income": 59588
       },
       "geometry": {
@@ -5166,7 +5166,7 @@ var statesData = {
       "id": "18",
       "properties": {
         "name": "Indiana",
-        "density": 181.7
+        "density": 181.7,
         "income": 50532
       },
       "geometry": {
@@ -5317,7 +5317,7 @@ var statesData = {
       "id": "19",
       "properties": {
         "name": "Iowa",
-        "density": 54.81
+        "density": 54.81,
         "income": 54736
       },
       "geometry": {
@@ -5480,7 +5480,7 @@ var statesData = {
       "id": "20",
       "properties": {
         "name": "Kansas",
-        "density": 35.09
+        "density": 35.09,
         "income": 53906
       },
       "geometry": {
@@ -5532,7 +5532,7 @@ var statesData = {
       "id": "21",
       "properties": {
         "name": "Kentucky",
-        "density": 110
+        "density": 110,
         "income": 45215
       },
       "geometry": {
@@ -5770,7 +5770,7 @@ var statesData = {
       "id": "22",
       "properties": {
         "name": "Louisiana",
-        "density": 105
+        "density": 105,
         "income": 45727
       },
       "geometry": {
@@ -6011,7 +6011,7 @@ var statesData = {
       "id": "23",
       "properties": {
         "name": "Maine",
-        "density": 43.04
+        "density": 43.04,
         "income": 51494
       },
       "geometry": {
@@ -6222,7 +6222,7 @@ var statesData = {
       "id": "24",
       "properties": {
         "name": "Maryland",
-        "density": 596.3
+        "density": 596.3,
         "income": 75847
       },
       "geometry": {
@@ -6431,7 +6431,7 @@ var statesData = {
       "id": "25",
       "properties": {
         "name": "Massachusetts",
-        "density": 840.2
+        "density": 840.2,
         "income": 70628
       },
       "geometry": {
@@ -6549,7 +6549,7 @@ var statesData = {
       "id": "26",
       "properties": {
         "name": "Michigan",
-        "density": 173.9
+        "density": 173.9,
         "income": 51084
       },
       "geometry": {
@@ -7026,7 +7026,7 @@ var statesData = {
       "id": "27",
       "properties": {
         "name": "Minnesota",
-        "density": 67.14
+        "density": 67.14,
         "income": 63488
       },
       "geometry": {
@@ -7288,7 +7288,7 @@ var statesData = {
       "id": "28",
       "properties": {
         "name": "Mississippi",
-        "density": 63.50
+        "density": 63.50,
         "income": 40593
       },
       "geometry": {
@@ -7439,7 +7439,7 @@ var statesData = {
       "id": "29",
       "properties": {
         "name": "Missouri",
-        "density": 87.26
+        "density": 87.26,
         "income": 50238
       },
       "geometry": {
@@ -7611,7 +7611,7 @@ var statesData = {
       "id": "30",
       "properties": {
         "name": "Montana",
-        "density": 6.858
+        "density": 6.858,
         "income": 49509
       },
       "geometry": {
@@ -7780,7 +7780,7 @@ var statesData = {
       "id": "31",
       "properties": {
         "name": "Nebraska",
-        "density": 23.97
+        "density": 23.97,
         "income": 54996
       },
       "geometry": {
@@ -7880,7 +7880,7 @@ var statesData = {
       "id": "32",
       "properties": {
         "name": "Nevada",
-        "density": 24.80
+        "density": 24.80,
         "income": 52431
       },
       "geometry": {
@@ -7956,7 +7956,7 @@ var statesData = {
       "id": "33",
       "properties": {
         "name": "New Hampshire",
-        "density": 147
+        "density": 147,
         "income": 70303
       },
       "geometry": {
@@ -8053,7 +8053,7 @@ var statesData = {
       "id": "34",
       "properties": {
         "name": "New Jersey",
-        "density": 1189
+        "density": 1189,
         "income": 72222
       },
       "geometry": {
@@ -8162,7 +8162,7 @@ var statesData = {
       "id": "35",
       "properties": {
         "name": "New Mexico",
-        "density": 17.16
+        "density": 17.16,
         "income": 45382
       },
       "geometry": {
@@ -8226,7 +8226,7 @@ var statesData = {
       "id": "36",
       "properties": {
         "name": "New York",
-        "density": 412.3
+        "density": 412.3,
         "income": 60850
       },
       "geometry": {
@@ -8443,7 +8443,7 @@ var statesData = {
       "id": "37",
       "properties": {
         "name": "North Carolina",
-        "density": 198.2
+        "density": 198.2,
         "income": 47830
       },
       "geometry": {
@@ -8639,7 +8639,7 @@ var statesData = {
       "id": "38",
       "properties": {
         "name": "North Dakota",
-        "density": 9.916
+        "density": 9.916,
         "income": 60557
       },
       "geometry": {
@@ -8700,7 +8700,7 @@ var statesData = {
       "id": "39",
       "properties": {
         "name": "Ohio",
-        "density": 281.9
+        "density": 281.9,
         "income":51075
       },
       "geometry": {
@@ -8854,7 +8854,7 @@ var statesData = {
       "id": "40",
       "properties": {
         "name": "Oklahoma",
-        "density": 55.22
+        "density": 55.22,
         "income": 48568
       },
       "geometry": {
@@ -9002,7 +9002,7 @@ var statesData = {
       "id": "41",
       "properties": {
         "name": "Oregon",
-        "density": 40.33
+        "density": 40.33,
         "income": 54148
       },
       "geometry": {
@@ -9183,7 +9183,7 @@ var statesData = {
       "id": "42",
       "properties": {
         "name": "Pennsylvania",
-        "density": 284.3
+        "density": 284.3,
         "income":55702
       },
       "geometry": {
@@ -9295,7 +9295,7 @@ var statesData = {
       "id": "44",
       "properties": {
         "name": "Rhode Island",
-        "density": 1006
+        "density": 1006,
         "income":58073
       },
       "geometry": {
@@ -9357,7 +9357,7 @@ var statesData = {
       "id": "45",
       "properties": {
         "name": "South Carolina",
-        "density": 155.4
+        "density": 155.4,
         "income":47238
       },
       "geometry": {
@@ -9502,7 +9502,7 @@ var statesData = {
       "id": "46",
       "properties": {
         "name": "South Dakota",
-        "density": 98.07
+        "density": 98.07,
         "income": 53017
       },
       "geometry": {
@@ -9602,7 +9602,7 @@ var statesData = {
       "id": "47",
       "properties": {
         "name": "Tennessee",
-        "density": 88.08
+        "density": 88.08,
         "income":47275
       },
       "geometry": {
@@ -9744,7 +9744,7 @@ var statesData = {
       "id": "48",
       "properties": {
         "name": "Texas",
-        "density": 98.07
+        "density": 98.07,
         "income": 55653
       },
       "geometry": {
@@ -10213,7 +10213,7 @@ var statesData = {
       "id": "49",
       "properties": {
         "name": "Utah",
-        "density": 34.30
+        "density": 34.30,
         "income":62912
       },
       "geometry": {
@@ -10262,7 +10262,7 @@ var statesData = {
       "id": "50",
       "properties": {
         "name": "Vermont",
-        "density": 67.73
+        "density": 67.73,
         "income":56990
       },
       "geometry": {
@@ -10359,7 +10359,7 @@ var statesData = {
       "id": "51",
       "properties": {
         "name": "Virginia",
-        "density": 204.5
+        "density": 204.5,
         "income":66262
       },
       "geometry": {
@@ -10618,7 +10618,7 @@ var statesData = {
       "id": "53",
       "properties": {
         "name": "Washington",
-        "density": 102.6
+        "density": 102.6,
         "income": 64129
       },
       "geometry": {
@@ -10853,7 +10853,7 @@ var statesData = {
       "id": "54",
       "properties": {
         "name": "West Virginia",
-        "density": 77.06
+        "density": 77.06,
         "income": 42019
       },
       "geometry": {
@@ -11061,7 +11061,7 @@ var statesData = {
       "id": "55",
       "properties": {
         "name": "Wisconsin",
-        "density": 105.2
+        "density": 105.2,
         "income": 55638
       },
       "geometry": {
@@ -11299,7 +11299,7 @@ var statesData = {
       "id": "56",
       "properties": {
         "name": "Wyoming",
-        "density": 5.851
+        "density": 5.851,
         "income":60214
       },
       "geometry": {
@@ -11351,7 +11351,7 @@ var statesData = {
       "id": "72",
       "properties": {
         "name": "Puerto Rico",
-        "density": 1082
+        "density": 1082,
         "income":18626
       },
       "geometry": {
