@@ -7,7 +7,7 @@ var statesData = {
       "properties": {
         "name": "Alabama",
         "density": 94.65
-        "income": 44,765
+        "income": 44765
       },
       "geometry": {
         "type": "Polygon",
@@ -119,7 +119,7 @@ var statesData = {
       "properties": {
         "name": "Alaska",
         "density": 1.264
-        "income": 73,355
+        "income": 73355
       },
       "geometry": {
         "type": "MultiPolygon",
